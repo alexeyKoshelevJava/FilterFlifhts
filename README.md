@@ -16,7 +16,7 @@ Segment -это объект который содежит поля LocalDateTim
 
 
 
- ![ ] (https://cdn.pixabay.com/photo/2016/07/05/18/35/aircraft-1499171_960_720.jpg)
+ ![Иллюстрация к проекту] (https://yandex.ru/images/search?text=%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2%20%D0%B2%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B5%20png%20%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C&from=tabbar&pos=1&img_url=https%3A%2F%2Fimg2.pngio.com%2Fboeing-767-airplane-boeing-737-boeing-757-boeing-png-transparent-boeing-737-png-1383_925.png&rpt=simage)
 
 
 
