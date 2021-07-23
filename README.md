@@ -12,7 +12,11 @@ Segment -это объект который содежит поля LocalDateTim
 2.	имеются сегменты с датой прилёта раньше даты вылета
 3.	общее время, проведённое на земле превышает два часа (время на земле — это интервал между прилётом одного сегмента и вылетом следующего за ним).
 
- ! [ ] (https://yandex.ru/images/search?pos=0&from=tabbar&img_url=https%3A%2F%2Faviav.ru%2Fwp-content%2Fuploads%2Fairports%2Fairplane%2520%28261%29.jpg&text=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8+%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2&rpt=simage)
+
+
+
+
+ ![ ] (https://cdn.pixabay.com/photo/2016/07/05/18/35/aircraft-1499171_960_720.jpg)
 
 
 
