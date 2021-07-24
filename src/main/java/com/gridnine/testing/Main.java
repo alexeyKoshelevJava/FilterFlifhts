@@ -13,17 +13,17 @@ public class Main {
 
         System.out.println("Текущее время: " + today);
 
-//      Departure before The Current time
+//      Departure before The Current time removed
         WorkingWithSegmentsByRules working = new WorkingWithSegmentsByRules(listFlights, removeDepartureBeforeTheCurrentTime());
-        System.out.println(" Departure before The Current time: " + working.filter());
+        System.out.println(" Departure before The Current time removed: " + working.filter());
 
 //        removeArrivalBeforeDeparture
         WorkingWithSegmentsByRules working1 = new WorkingWithSegmentsByRules(listFlights, removeArrivalBeforeDeparture());
         System.out.println("removeArrivalBeforeDeparture: " + working1.filter());
 
-// output of flights that have more than 2 hours on the ground.
+// output of flights that have less than 2 hours on the ground.
         WorkingWithSegmentsByRules working2 = new WorkingWithSegmentsByRules(listFlights, removeWhoHaveTimeOnEarthIsMoreThanTwoHours());
-        System.out.println("output of flights that have more than 2 hours on the ground: " + working2.filter());
+        System.out.println("output of flights that have less than 2 hours on the ground: " + working2.filter());
     }
 
     public static Rule removeDepartureBeforeTheCurrentTime() {
